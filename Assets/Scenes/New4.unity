@@ -787,7 +787,12 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1203399381132174, guid: 9a9381864dcf18246a6a1cfc688b6caa, type: 2}
       propertyPath: m_TagString
-      value: RoomChange4
+      value: Roomchange3
+      objectReference: {fileID: 0}
+    - target: {fileID: 61288475767256272, guid: 9a9381864dcf18246a6a1cfc688b6caa,
+        type: 2}
+      propertyPath: m_IsTrigger
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a9381864dcf18246a6a1cfc688b6caa, type: 2}

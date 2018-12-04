@@ -30,6 +30,7 @@ TagManager:
   - RoomChange7
   - Dialog 1
   - Dialog2
+  - txt2
   layers:
   - Default
   - TransparentFX

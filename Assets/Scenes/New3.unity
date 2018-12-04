@@ -428,6 +428,11 @@ Prefab:
       propertyPath: m_Name
       value: Key Sprite (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 212552876333803450, guid: 36ba73ab31398af499343a33bfb1859e,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 36ba73ab31398af499343a33bfb1859e, type: 2}
   m_IsPrefabAsset: 0
